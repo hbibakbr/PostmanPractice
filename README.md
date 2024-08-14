@@ -16,6 +16,8 @@ This project demonstrates key concepts and best practices in API testing, includ
 
 ## Live Demo
 
+![API Test Results](postman.jpg)
+
 The project is deployed on GitHub Pages. You can view the live demo here: [GitHub Pages Link](https://hbibakbr.github.io/PostmanPractice/)
 
 ## Installation
