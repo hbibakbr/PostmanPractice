@@ -1,6 +1,8 @@
-# Postman Beginner's Course - API Testing Practical Project
+# Postman Beginner's Course - API Testing Practical Project - Simple Book API
 
-This repository contains the practical project that accompanies the **Postman Beginner's Course - API Testing** from freecodecamp.org youtube channel. The project showcases the application of various API testing techniques learned during the course. It includes examples of HTTP requests, test automation, and CI/CD integration using Postman. Also using htmlextra to reporting an API testing with html format. Here link to access course : https://www.youtube.com/watch?v=VywxIQ2ZXw4&list=LL
+This repository contains the practical project that accompanies the **Postman Beginner's Course - API Testing** from freecodecamp.org youtube channel. The project showcases the application of various API testing techniques learned during the course. It includes examples of HTTP requests, test automation, and CI/CD integration using Postman. Also using htmlextra to reporting an API testing with html format. 
+Here link to access course : https://www.youtube.com/watch?v=VywxIQ2ZXw4&list=LL
+Here link for API : https://simple-books-api.glitch.me
 
 ## Project Overview
 
